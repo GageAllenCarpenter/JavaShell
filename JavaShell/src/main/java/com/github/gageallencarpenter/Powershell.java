@@ -1,4 +1,4 @@
-package org.java.shell;
+package com.github.gageallencarpenter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

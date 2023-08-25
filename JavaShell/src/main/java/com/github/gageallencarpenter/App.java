@@ -1,4 +1,4 @@
-package org.java.shell;
+package com.github.gageallencarpenter;
 
 public class App {
     public static void main(String[] args) {
