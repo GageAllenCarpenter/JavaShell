@@ -17,8 +17,8 @@ JavaShell is a Java library for executing PowerShell scripts asynchronously on l
 
 JavaShell provides a convenient way to execute PowerShell scripts synchronously or asynchronously in Java.
 ### Maven
-```
-<dependency>
+```Maven
+<dependency>xml
     <groupId>io.github.gageallencarpenter</groupId>
     <artifactId>JavaShell</artifactId>
     <version>1</version>
@@ -26,7 +26,7 @@ JavaShell provides a convenient way to execute PowerShell scripts synchronously 
 ```
 
 ### Synchronous Programming
-```
+```java
 public static void main(String[] args) { 
 	new Powershell().execute("ipconfig /all").forEach(System.out::println);
 }
