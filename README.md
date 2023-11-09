@@ -4,7 +4,7 @@
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Coverage](https://img.shields.io/badge/coverage-90%25-green.svg)]()
 
-**JavaShell** is a comprehensive Java library designed to facilitate the effortless integration of PowerShell scripting capabilities into Java applications. This powerful utility empowers developers to seamlessly execute PowerShell scripts, whether synchronously or asynchronously, creating a seamless bridge between Java and PowerShell functionalities.
+**JavaShell** is a comprehensive Java library designed to facilitate the effortless integration of PowerShell scripting capabilities into Java applications. This powerful utility empowers developers to seamlessly execute PowerShell scripts, whether synchronously or asynchronously, creating a seamless bridge between Java and PowerShell functionalities. Compatible with Java 20+
 
 ## Table of Contents
 - [Introduction](#introduction)
